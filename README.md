@@ -1,4 +1,4 @@
 # hello-world
-just a repository
+Just a repository.
 
-I am Archit Kaila. I am a Btech Computer science Student. I like exploring and working in new things.I love talking about technology.
+I am Archit Kaila. I am a B. Tech Computer Science & Engineering Student. I like exploring and working with new things. I love talking about technology.
